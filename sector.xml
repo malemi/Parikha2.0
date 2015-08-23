@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<linked-list>
+<loyalty-level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:java="http://java.sun.com" number-agents="15" xsi:type="java:pmarket.LoyaltyLevel">
+<program-name>NoStatus</program-name>
+<identifier>RESELLER</identifier>
+<max-budget value="500.0"><currency>EUR</currency></max-budget>
+<max-budget value="500.0"><currency>EUR</currency></max-budget>
+<max-budget value="500.0"><currency>EUR</currency></max-budget>
+<min-budget value="300.0"><currency>EUR</currency></min-budget>
+<min-budget value="300.0"><currency>EUR</currency></min-budget>
+<min-budget value="300.0"><currency>EUR</currency></min-budget>
+</loyalty-level>
+<loyalty-level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:java="http://java.sun.com" number-agents="4" xsi:type="java:pmarket.LoyaltyLevel">
+<program-name>Brass</program-name>
+<identifier>RESELLER</identifier>
+<max-budget value="700.0"><currency>EUR</currency></max-budget>
+<max-budget value="700.0"><currency>EUR</currency></max-budget>
+<max-budget value="700.0"><currency>EUR</currency></max-budget>
+<min-budget value="500.0"><currency>EUR</currency></min-budget>
+<min-budget value="500.0"><currency>EUR</currency></min-budget>
+<min-budget value="500.0"><currency>EUR</currency></min-budget>
+</loyalty-level>
+<loyalty-level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:java="http://java.sun.com" number-agents="5" xsi:type="java:pmarket.LoyaltyLevel">
+<program-name>Bronze</program-name>
+<identifier>RESELLER</identifier>
+<max-budget value="900.0"><currency>EUR</currency></max-budget>
+<max-budget value="900.0"><currency>EUR</currency></max-budget>
+<max-budget value="900.0"><currency>EUR</currency></max-budget>
+<min-budget value="700.0"><currency>EUR</currency></min-budget>
+<min-budget value="700.0"><currency>EUR</currency></min-budget>
+<min-budget value="700.0"><currency>EUR</currency></min-budget>
+</loyalty-level><loyalty-level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:java="http://java.sun.com" number-agents="7" xsi:type="java:pmarket.LoyaltyLevel">
+<program-name>Silver</program-name>
+<identifier>RESELLER</identifier>
+<max-budget value="1000.0"><currency>EUR</currency></max-budget>
+<max-budget value="1000.0"><currency>EUR</currency></max-budget>
+<max-budget value="1000.0"><currency>EUR</currency></max-budget>
+<min-budget value="900.0"><currency>EUR</currency></min-budget>
+<min-budget value="900.0"><currency>EUR</currency></min-budget>
+<min-budget value="900.0"><currency>EUR</currency></min-budget>
+</loyalty-level>
+<loyalty-level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:java="http://java.sun.com" number-agents="3" xsi:type="java:pmarket.LoyaltyLevel">
+<program-name>Gold</program-name>
+<identifier>RESELLER</identifier>
+<max-budget value="1500.0"><currency>EUR</currency></max-budget>
+<max-budget value="1500.0"><currency>EUR</currency></max-budget>
+<max-budget value="1500.0"><currency>EUR</currency></max-budget>
+<min-budget value="1000.0"><currency>EUR</currency></min-budget>
+<min-budget value="1000.0"><currency>EUR</currency></min-budget>
+<min-budget value="1000.0"><currency>EUR</currency></min-budget>
+</loyalty-level>
+</linked-list>

@@ -1,0 +1,563 @@
+UId	Year	Loyalty Level	Bdg4Goods	Bdg4Services	Product	Product	Product	Product	Product	Product	Product	Product
+
+2	0	NoStat	398	397
+3	0	NoStat	449	370
+4	0	NoStat	347	492
+5	0	NoStat	400	448
+6	0	NoStat	380	421
+7	0	NoStat	424	433
+8	0	NoStat	337	386
+9	0	NoStat	386	421
+10	0	NoStat	446	392
+11	0	NoStat	320	323
+12	0	Brass	507	583
+13	0	Brass	597	557
+14	0	Brass	617	636
+15	0	Brass	697	504
+16	0	Brass	589	501
+17	0	Brass	591	575
+18	0	Brass	665	684
+19	0	Brass	606	680
+20	0	Brass	596	684
+21	0	Brass	557	504
+22	0	Bronze	834	878
+23	0	Bronze	818	851
+24	0	Bronze	881	856
+25	0	Bronze	769	723
+26	0	Bronze	846	756
+27	0	Bronze	813	721
+28	0	Bronze	858	862
+29	0	Bronze	811	862
+30	0	Bronze	785	738
+31	0	Bronze	847	895
+32	0	Silver	967	954
+33	0	Silver	999	908
+34	0	Silver	903	956
+35	0	Silver	916	973
+36	0	Silver	979	959
+37	0	Silver	994	982
+38	0	Silver	978	981
+39	0	Silver	991	995
+40	0	Silver	919	907
+41	0	Silver	959	988
+42	0	Gold	1298	1046
+43	0	Gold	1156	1008
+44	0	Gold	1364	1490
+45	0	Gold	1150	1487
+46	0	Gold	1469	1337
+47	0	Gold	1478	1142
+48	0	Gold	1481	1424
+49	0	Gold	1472	1078
+50	0	Gold	1097	1127
+51	0	Gold	1073	1450
+
+2	1	NoStat	376	397	Consulting
+3	1	NoStat	426	370	Consulting
+4	1	NoStat	191	492	WebSite
+5	1	NoStat	388	448
+6	1	NoStat	359	421	Consulting
+7	1	NoStat	265	433	WebSite
+8	1	NoStat	182	386	WebSite
+9	1	Brass	697	421
+10	1	Brass	501	392	Consulting
+11	1	NoStat	165	323	WebSite
+12	1	NoStat	492	583
+13	1	NoStat	434	557	WebSite
+14	1	Brass	589	636	Consulting
+15	1	Brass	530	504	WebSite
+16	1	Brass	571	501
+17	1	Brass	563	575	Consulting
+18	1	NoStat	500	684	WebSite
+19	1	NoStat	442	680	WebSite
+20	1	NoStat	432	684	WebSite
+21	1	Brass	540	504
+22	1	Bronze	799	878	Consulting
+23	1	Bronze	784	851	Consulting
+24	1	Bronze	845	856	Consulting
+25	1	Bronze	746	723
+26	1	Brass	675	756	WebSite
+27	1	Silver	957	721	Consulting
+28	1	Bronze	823	862	Consulting
+29	1	Bronze	777	862	Consulting
+30	1	Bronze	762	738
+31	1	Bronze	812	895	Consulting
+32	1	Bronze	793	954	WebSite
+33	1	Gold	1084	908	WebSite
+34	1	Bronze	866	956	Consulting
+35	1	Bronze	879	973	Consulting
+36	1	Bronze	804	959	WebSite
+37	1	Silver	955	982	Consulting
+38	1	Silver	939	981	Consulting
+39	1	Gold	1304	995	WebSite
+40	1	Gold	1439	907	Consulting
+41	1	Bronze	784	988	WebSite
+42	1	Gold	1249	1046	Consulting
+43	1	Silver	976	1008	WebSite
+44	1	Gold	1314	1490	Consulting
+45	1	Gold	1115	1487
+46	1	Gold	1425	1337
+47	1	Gold	1433	1142
+48	1	Gold	1291	1424	WebSite
+49	1	Gold	1428	1078
+50	1	Gold	1055	1127	Consulting
+51	1	Gold	1032	1450	Consulting
+
+2	2	NoStat	355	397	Consulting	Consulting
+3	2	Brass	652	370	Consulting	Consulting
+4	2	NoStat	176	492	WebSite	Consulting
+5	2	Brass	694	448	Consulting
+6	2	NoStat	203	421	Consulting	WebSite
+7	2	NoStat	248	433	WebSite	Consulting
+8	2	NoStat	167	386	WebSite	Consulting
+9	2	Brass	676	421
+10	2	Bronze	841	392	Consulting
+11	2	NoStat	160	323	WebSite
+12	2	NoStat	467	583	Consulting
+13	2	NoStat	421	557	WebSite
+14	2	Brass	571	636	Consulting
+15	2	Brass	505	504	WebSite	Consulting
+16	2	NoStat	408	501	WebSite
+17	2	NoStat	401	575	Consulting	WebSite
+18	2	NoStat	485	684	WebSite
+19	2	NoStat	419	680	WebSite	Consulting
+20	2	NoStat	419	684	WebSite
+21	2	Brass	524	504
+22	2	Brass	630	878	Consulting	WebSite
+23	2	Bronze	760	851	Consulting
+24	2	Bronze	820	856	Consulting
+25	2	Brass	578	723	WebSite
+26	2	Brass	655	756	WebSite
+27	2	Gold	1437	721	Consulting	WebSite
+28	2	Bronze	798	862	Consulting
+29	2	Bronze	754	862	Consulting
+30	2	Brass	593	738	WebSite
+31	2	Bronze	778	895	Consulting	Consulting
+32	2	Bronze	759	954	WebSite	Consulting
+33	2	Silver	906	908	WebSite	WebSite
+34	2	Brass	695	956	Consulting	WebSite
+35	2	Silver	924	973	Consulting	Consulting
+36	2	Bronze	780	959	WebSite
+37	2	Silver	916	982	Consulting	Consulting
+38	2	Silver	911	981	Consulting
+39	2	Gold	1265	995	WebSite
+40	2	Gold	1395	907	Consulting
+41	2	Brass	615	988	WebSite	WebSite
+42	2	Gold	1066	1046	Consulting	WebSite
+43	2	Gold	1248	1008	WebSite	Consulting
+44	2	Gold	1274	1490	Consulting
+45	2	Silver	936	1487	WebSite
+46	2	Gold	1237	1337	WebSite
+47	2	Gold	1390	1142
+48	2	Gold	1253	1424	WebSite
+49	2	Gold	1240	1078	WebSite
+50	2	Gold	1023	1127	Consulting
+51	2	Gold	1001	1450	Consulting
+
+2	3	NoStat	344	397	Consulting	Consulting
+3	3	Brass	632	370	Consulting	Consulting
+4	3	NoStat	170	492	WebSite	Consulting
+5	3	Brass	663	448	Consulting	Consulting
+6	3	NoStat	51	421	Consulting	WebSite	WebSite
+7	3	NoStat	95	433	WebSite	Consulting	WebSite
+8	3	NoStat	16	386	WebSite	Consulting	WebSite
+9	3	Brass	646	421	Consulting
+10	3	Bronze	816	392	Consulting
+11	3	NoStat	145	323	WebSite	Consulting
+12	3	NoStat	443	583	Consulting	Consulting
+13	3	NoStat	408	557	WebSite
+14	3	NoStat	409	636	Consulting	WebSite
+15	3	NoStat	490	504	WebSite	Consulting
+16	3	NoStat	396	501	WebSite
+17	3	Brass	541	575	Consulting	WebSite
+18	3	NoStat	470	684	WebSite
+19	3	NoStat	407	680	WebSite	Consulting
+20	3	Brass	551	684	WebSite
+21	3	Bronze	727	504	WebSite
+22	3	Brass	611	878	Consulting	WebSite
+23	3	Bronze	738	851	Consulting
+24	3	Brass	650	856	Consulting	WebSite
+25	3	Brass	560	723	WebSite
+26	3	Brass	635	756	WebSite
+27	3	Gold	1384	721	Consulting	WebSite	Consulting
+28	3	Silver	998	862	Consulting	Consulting
+29	3	Bronze	731	862	Consulting
+30	3	NoStat	430	738	WebSite	WebSite
+31	3	Brass	609	895	Consulting	Consulting	WebSite
+32	3	Bronze	737	954	WebSite	Consulting
+33	3	Bronze	879	908	WebSite	WebSite
+34	3	Brass	528	956	Consulting	WebSite	WebSite
+35	3	Bronze	897	973	Consulting	Consulting
+36	3	Bronze	747	959	WebSite	Consulting
+37	3	Gold	1307	982	Consulting	Consulting
+38	3	Bronze	874	981	Consulting	Consulting
+39	3	Gold	1227	995	WebSite
+40	3	Gold	1353	907	Consulting
+41	3	Brass	597	988	WebSite	WebSite
+42	3	Gold	1034	1046	Consulting	WebSite
+43	3	Gold	1211	1008	WebSite	Consulting
+44	3	Gold	1091	1490	Consulting	WebSite
+45	3	Bronze	763	1487	WebSite	WebSite
+46	3	Gold	1054	1337	WebSite	WebSite
+47	3	Gold	1349	1142
+48	3	Gold	1205	1424	WebSite	Consulting
+49	3	Gold	1203	1078	WebSite
+50	3	Bronze	847	1127	Consulting	WebSite
+51	3	Silver	961	1450	Consulting	Consulting
+
+2	4	NoStat	334	397	Consulting	Consulting
+3	4	Brass	613	370	Consulting	Consulting
+4	4	NoStat	165	492	WebSite	Consulting
+5	4	Brass	644	448	Consulting	Consulting
+6	4	NoStat	50	421	Consulting	WebSite	WebSite
+7	4	NoStat	92	433	WebSite	Consulting	WebSite
+8	4	NoStat	16	386	WebSite	Consulting	WebSite
+9	4	Brass	627	421	Consulting
+10	4	Bronze	792	392	Consulting
+11	4	NoStat	141	323	WebSite	Consulting
+12	4	NoStat	430	583	Consulting	Consulting
+13	4	NoStat	396	557	WebSite
+14	4	NoStat	396	636	Consulting	WebSite
+15	4	NoStat	475	504	WebSite	Consulting
+16	4	NoStat	239	501	WebSite	WebSite
+17	4	Brass	525	575	Consulting	WebSite
+18	4	NoStat	456	684	WebSite
+19	4	NoStat	394	680	WebSite	Consulting
+20	4	Brass	535	684	WebSite
+21	4	Silver	944	504	WebSite
+22	4	Brass	593	878	Consulting	WebSite
+23	4	Bronze	715	851	Consulting
+24	4	Brass	630	856	Consulting	WebSite
+25	4	Brass	544	723	WebSite
+26	4	Brass	616	756	WebSite
+27	4	Gold	1343	721	Consulting	WebSite	Consulting
+28	4	Silver	958	862	Consulting	Consulting	Consulting
+29	4	Bronze	709	862	Consulting
+30	4	NoStat	417	738	WebSite	WebSite
+31	4	Brass	591	895	Consulting	Consulting	WebSite
+32	4	Bronze	714	954	WebSite	Consulting
+33	4	Bronze	852	908	WebSite	WebSite
+34	4	Brass	512	956	Consulting	WebSite	WebSite
+35	4	Silver	942	973	Consulting	Consulting
+36	4	Bronze	724	959	WebSite	Consulting
+37	4	Gold	1268	982	Consulting	Consulting
+38	4	Bronze	847	981	Consulting	Consulting
+39	4	Gold	1190	995	WebSite
+40	4	Gold	1313	907	Consulting
+41	4	Brass	579	988	WebSite	WebSite
+42	4	Gold	1003	1046	Consulting	WebSite
+43	4	Gold	1029	1008	WebSite	Consulting	WebSite
+44	4	Gold	1058	1490	Consulting	WebSite
+45	4	Bronze	740	1487	WebSite	WebSite
+46	4	Gold	1022	1337	WebSite	WebSite
+47	4	Gold	1298	1142	Consulting
+48	4	Gold	1160	1424	WebSite	Consulting	Consulting
+49	4	Gold	1167	1078	WebSite
+50	4	Bronze	821	1127	Consulting	WebSite
+51	4	Silver	932	1450	Consulting	Consulting
+
+2	5	NoStat	324	397	Consulting	Consulting
+3	5	Brass	595	370	Consulting	Consulting
+4	5	NoStat	160	492	WebSite	Consulting
+5	5	Brass	624	448	Consulting	Consulting
+6	5	NoStat	48	421	Consulting	WebSite	WebSite
+7	5	NoStat	89	433	WebSite	Consulting	WebSite
+8	5	NoStat	15	386	WebSite	Consulting	WebSite
+9	5	Brass	608	421	Consulting
+10	5	Bronze	768	392	Consulting
+11	5	NoStat	137	323	WebSite	Consulting
+12	5	NoStat	417	583	Consulting	Consulting
+13	5	NoStat	384	557	WebSite
+14	5	NoStat	384	636	Consulting	WebSite
+15	5	NoStat	461	504	WebSite	Consulting
+16	5	NoStat	232	501	WebSite	WebSite
+17	5	Brass	509	575	Consulting	WebSite
+18	5	NoStat	442	684	WebSite
+19	5	NoStat	383	680	WebSite	Consulting
+20	5	Brass	519	684	WebSite
+21	5	Gold	1125	504	WebSite
+22	5	Brass	575	878	Consulting	WebSite
+23	5	Brass	694	851	Consulting
+24	5	Brass	611	856	Consulting	WebSite
+25	5	Brass	527	723	WebSite
+26	5	Bronze	726	756	WebSite
+27	5	Gold	1302	721	Consulting	WebSite	Consulting
+28	5	Silver	930	862	Consulting	Consulting	Consulting
+29	5	Brass	688	862	Consulting
+30	5	NoStat	405	738	WebSite	WebSite
+31	5	Brass	573	895	Consulting	Consulting	WebSite
+32	5	Brass	683	954	WebSite	Consulting	Consulting
+33	5	Bronze	827	908	WebSite	WebSite
+34	5	NoStat	352	956	Consulting	WebSite	WebSite	WebSite
+35	5	Silver	914	973	Consulting	Consulting
+36	5	Bronze	702	959	WebSite	Consulting
+37	5	Gold	1230	982	Consulting	Consulting
+38	5	Bronze	822	981	Consulting	Consulting
+39	5	Gold	1154	995	WebSite
+40	5	Gold	1274	907	Consulting
+41	5	Brass	561	988	WebSite	WebSite
+42	5	Silver	973	1046	Consulting	WebSite
+43	5	Silver	998	1008	WebSite	Consulting	WebSite
+44	5	Gold	1026	1490	Consulting	WebSite
+45	5	Bronze	718	1487	WebSite	WebSite
+46	5	Silver	992	1337	WebSite	WebSite
+47	5	Gold	1259	1142	Consulting
+48	5	Gold	1125	1424	WebSite	Consulting	Consulting
+49	5	Gold	1132	1078	WebSite
+50	5	Silver	986	1127	Consulting	WebSite
+51	5	Silver	904	1450	Consulting	Consulting
+
+2	6	NoStat	314	397	Consulting	Consulting
+3	6	Brass	577	370	Consulting	Consulting
+4	6	NoStat	156	492	WebSite	Consulting
+5	6	Brass	605	448	Consulting	Consulting
+6	6	NoStat	47	421	Consulting	WebSite	WebSite
+7	6	NoStat	87	433	WebSite	Consulting	WebSite
+8	6	NoStat	15	386	WebSite	Consulting	WebSite
+9	6	Brass	590	421	Consulting
+10	6	Silver	951	392	Consulting
+11	6	NoStat	133	323	WebSite	Consulting
+12	6	NoStat	405	583	Consulting	Consulting
+13	6	NoStat	373	557	WebSite
+14	6	NoStat	373	636	Consulting	WebSite
+15	6	NoStat	447	504	WebSite	Consulting
+16	6	NoStat	225	501	WebSite	WebSite
+17	6	NoStat	494	575	Consulting	WebSite
+18	6	NoStat	429	684	WebSite
+19	6	NoStat	371	680	WebSite	Consulting
+20	6	Brass	503	684	WebSite
+21	6	Silver	946	504	WebSite	WebSite
+22	6	Brass	558	878	Consulting	WebSite
+23	6	Brass	673	851	Consulting
+24	6	Brass	593	856	Consulting	WebSite
+25	6	Bronze	895	723	WebSite
+26	6	Bronze	704	756	WebSite
+27	6	Gold	1263	721	Consulting	WebSite	Consulting
+28	6	Silver	902	862	Consulting	Consulting	Consulting
+29	6	Brass	667	862	Consulting
+30	6	Brass	647	738	WebSite	WebSite
+31	6	Brass	556	895	Consulting	Consulting	WebSite
+32	6	Brass	663	954	WebSite	Consulting	Consulting
+33	6	Bronze	802	908	WebSite	WebSite
+34	6	NoStat	341	956	Consulting	WebSite	WebSite	WebSite
+35	6	Bronze	886	973	Consulting	Consulting
+36	6	Brass	681	959	WebSite	Consulting
+37	6	Gold	1193	982	Consulting	Consulting
+38	6	Bronze	797	981	Consulting	Consulting
+39	6	Gold	1120	995	WebSite
+40	6	Gold	1235	907	Consulting
+41	6	Brass	545	988	WebSite	WebSite
+42	6	Bronze	798	1046	Consulting	WebSite	WebSite
+43	6	Silver	968	1008	WebSite	Consulting	WebSite
+44	6	Bronze	850	1490	Consulting	WebSite	WebSite
+45	6	Brass	696	1487	WebSite	WebSite
+46	6	Silver	962	1337	WebSite	WebSite
+47	6	Gold	1222	1142	Consulting
+48	6	Gold	1091	1424	WebSite	Consulting	Consulting
+49	6	Gold	1098	1078	WebSite
+50	6	Silver	956	1127	Consulting	WebSite
+51	6	Bronze	877	1450	Consulting	Consulting
+
+2	7	NoStat	305	397	Consulting	Consulting
+3	7	Brass	559	370	Consulting	Consulting
+4	7	NoStat	151	492	WebSite	Consulting
+5	7	Brass	587	448	Consulting	Consulting
+6	7	NoStat	45	421	Consulting	WebSite	WebSite
+7	7	NoStat	84	433	WebSite	Consulting	WebSite
+8	7	NoStat	14	386	WebSite	Consulting	WebSite
+9	7	Brass	572	421	Consulting
+10	7	Silver	923	392	Consulting
+11	7	NoStat	129	323	WebSite	Consulting
+12	7	NoStat	393	583	Consulting	Consulting
+13	7	NoStat	361	557	WebSite
+14	7	NoStat	362	636	Consulting	WebSite
+15	7	NoStat	433	504	WebSite	Consulting
+16	7	NoStat	218	501	WebSite	WebSite
+17	7	NoStat	479	575	Consulting	WebSite
+18	7	Brass	655	684	WebSite
+19	7	NoStat	360	680	WebSite	Consulting
+20	7	NoStat	488	684	WebSite
+21	7	Silver	917	504	WebSite	WebSite
+22	7	Brass	541	878	Consulting	WebSite
+23	7	Brass	653	851	Consulting
+24	7	Brass	575	856	Consulting	WebSite
+25	7	Bronze	868	723	WebSite
+26	7	Brass	683	756	WebSite
+27	7	Gold	1225	721	Consulting	WebSite	Consulting
+28	7	Gold	1333	862	Consulting	Consulting	Consulting
+29	7	Brass	647	862	Consulting
+30	7	Brass	627	738	WebSite	WebSite
+31	7	Brass	539	895	Consulting	Consulting	WebSite
+32	7	Brass	643	954	WebSite	Consulting	Consulting
+33	7	Bronze	778	908	WebSite	WebSite
+34	7	NoStat	331	956	Consulting	WebSite	WebSite	WebSite
+35	7	Bronze	860	973	Consulting	Consulting
+36	7	Brass	661	959	WebSite	Consulting
+37	7	Gold	1157	982	Consulting	Consulting
+38	7	Bronze	773	981	Consulting	Consulting
+39	7	Gold	1086	995	WebSite
+40	7	Gold	1198	907	Consulting
+41	7	Brass	528	988	WebSite	WebSite
+42	7	Bronze	774	1046	Consulting	WebSite	WebSite
+43	7	Silver	939	1008	WebSite	Consulting	WebSite
+44	7	Bronze	824	1490	Consulting	WebSite	WebSite
+45	7	Brass	675	1487	WebSite	WebSite
+46	7	Silver	933	1337	WebSite	WebSite
+47	7	Gold	1185	1142	Consulting
+48	7	Gold	1058	1424	WebSite	Consulting	Consulting
+49	7	Gold	1065	1078	WebSite
+50	7	Silver	928	1127	Consulting	WebSite
+51	7	Bronze	851	1450	Consulting	Consulting
+
+2	8	Brass	680	397	Consulting	Consulting
+3	8	Brass	543	370	Consulting	Consulting
+4	8	NoStat	146	492	WebSite	Consulting
+5	8	Brass	570	448	Consulting	Consulting
+6	8	NoStat	44	421	Consulting	WebSite	WebSite
+7	8	NoStat	81	433	WebSite	Consulting	WebSite
+8	8	NoStat	14	386	WebSite	Consulting	WebSite
+9	8	Brass	555	421	Consulting
+10	8	Bronze	895	392	Consulting
+11	8	NoStat	125	323	WebSite	Consulting
+12	8	Brass	534	583	Consulting	Consulting
+13	8	Brass	664	557	WebSite
+14	8	NoStat	351	636	Consulting	WebSite
+15	8	NoStat	420	504	WebSite	Consulting
+16	8	NoStat	211	501	WebSite	WebSite
+17	8	NoStat	465	575	Consulting	WebSite
+18	8	Brass	635	684	WebSite
+19	8	NoStat	349	680	WebSite	Consulting
+20	8	NoStat	474	684	WebSite
+21	8	Bronze	890	504	WebSite	WebSite
+22	8	Brass	525	878	Consulting	WebSite
+23	8	Brass	633	851	Consulting
+24	8	Brass	558	856	Consulting	WebSite
+25	8	Bronze	842	723	WebSite
+26	8	Brass	662	756	WebSite
+27	8	Gold	1189	721	Consulting	WebSite	Consulting
+28	8	Gold	1293	862	Consulting	Consulting	Consulting
+29	8	Brass	628	862	Consulting
+30	8	Brass	608	738	WebSite	WebSite
+31	8	Brass	523	895	Consulting	Consulting	WebSite
+32	8	Brass	624	954	WebSite	Consulting	Consulting
+33	8	Bronze	755	908	WebSite	WebSite
+34	8	NoStat	321	956	Consulting	WebSite	WebSite	WebSite
+35	8	Bronze	834	973	Consulting	Consulting
+36	8	Brass	641	959	WebSite	Consulting
+37	8	Gold	1122	982	Consulting	Consulting
+38	8	Bronze	750	981	Consulting	Consulting
+39	8	Gold	1053	995	WebSite
+40	8	Gold	1162	907	Consulting
+41	8	Bronze	852	988	WebSite	WebSite
+42	8	Bronze	751	1046	Consulting	WebSite	WebSite
+43	8	Silver	911	1008	WebSite	Consulting	WebSite
+44	8	Bronze	800	1490	Consulting	WebSite	WebSite
+45	8	Brass	655	1487	WebSite	WebSite
+46	8	Silver	905	1337	WebSite	WebSite
+47	8	Gold	1150	1142	Consulting
+48	8	Gold	1027	1424	WebSite	Consulting	Consulting
+49	8	Gold	1033	1078	WebSite
+50	8	Bronze	900	1127	Consulting	WebSite
+51	8	Bronze	825	1450	Consulting	Consulting
+
+2	9	Bronze	896	397	Consulting	Consulting
+3	9	Brass	526	370	Consulting	Consulting
+4	9	NoStat	142	492	WebSite	Consulting
+5	9	Brass	553	448	Consulting	Consulting
+6	9	NoStat	43	421	Consulting	WebSite	WebSite
+7	9	NoStat	79	433	WebSite	Consulting	WebSite
+8	9	NoStat	13	386	WebSite	Consulting	WebSite
+9	9	Brass	538	421	Consulting
+10	9	Bronze	868	392	Consulting
+11	9	NoStat	121	323	WebSite	Consulting
+12	9	Brass	518	583	Consulting	Consulting
+13	9	Brass	644	557	WebSite
+14	9	NoStat	340	636	Consulting	WebSite
+15	9	NoStat	408	504	WebSite	Consulting
+16	9	NoStat	205	501	WebSite	WebSite
+17	9	NoStat	451	575	Consulting	WebSite
+18	9	Brass	616	684	WebSite
+19	9	NoStat	339	680	WebSite	Consulting
+20	9	NoStat	459	684	WebSite
+21	9	Bronze	863	504	WebSite	WebSite
+22	9	Brass	509	878	Consulting	WebSite
+23	9	Brass	614	851	Consulting
+24	9	Brass	541	856	Consulting	WebSite
+25	9	Bronze	817	723	WebSite
+26	9	Brass	642	756	WebSite
+27	9	Gold	1153	721	Consulting	WebSite	Consulting
+28	9	Gold	1254	862	Consulting	Consulting	Consulting
+29	9	Brass	609	862	Consulting
+30	9	Brass	590	738	WebSite	WebSite
+31	9	Brass	507	895	Consulting	Consulting	WebSite
+32	9	Brass	605	954	WebSite	Consulting	Consulting
+33	9	Bronze	732	908	WebSite	WebSite
+34	9	NoStat	311	956	Consulting	WebSite	WebSite	WebSite
+35	9	Bronze	809	973	Consulting	Consulting
+36	9	Brass	622	959	WebSite	Consulting
+37	9	Gold	1089	982	Consulting	Consulting
+38	9	Bronze	728	981	Consulting	Consulting
+39	9	Gold	1022	995	WebSite
+40	9	Gold	1127	907	Consulting
+41	9	Bronze	827	988	WebSite	WebSite
+42	9	Bronze	729	1046	Consulting	WebSite	WebSite
+43	9	Gold	1363	1008	WebSite	Consulting	WebSite
+44	9	Bronze	776	1490	Consulting	WebSite	WebSite
+45	9	Brass	635	1487	WebSite	WebSite
+46	9	Bronze	878	1337	WebSite	WebSite
+47	9	Gold	1115	1142	Consulting
+48	9	Silver	996	1424	WebSite	Consulting	Consulting
+49	9	Gold	1002	1078	WebSite
+50	9	Bronze	873	1127	Consulting	WebSite
+51	9	Bronze	800	1450	Consulting	Consulting
+
+2	10	Bronze	869	397	Consulting	Consulting
+3	10	Brass	511	370	Consulting	Consulting
+4	10	NoStat	138	492	WebSite	Consulting
+5	10	Brass	536	448	Consulting	Consulting
+6	10	NoStat	41	421	Consulting	WebSite	WebSite
+7	10	NoStat	77	433	WebSite	Consulting	WebSite
+8	10	Brass	606	386	WebSite	Consulting	WebSite
+9	10	Bronze	716	421	Consulting
+10	10	Bronze	842	392	Consulting
+11	10	NoStat	117	323	WebSite	Consulting
+12	10	Brass	503	583	Consulting	Consulting
+13	10	Brass	625	557	WebSite
+14	10	NoStat	330	636	Consulting	WebSite
+15	10	NoStat	396	504	WebSite	Consulting
+16	10	NoStat	199	501	WebSite	WebSite
+17	10	NoStat	437	575	Consulting	WebSite
+18	10	Brass	597	684	WebSite
+19	10	NoStat	329	680	WebSite	Consulting
+20	10	NoStat	446	684	WebSite
+21	10	Bronze	837	504	WebSite	WebSite
+22	10	NoStat	494	878	Consulting	WebSite
+23	10	Brass	596	851	Consulting
+24	10	Brass	525	856	Consulting	WebSite
+25	10	Bronze	792	723	WebSite
+26	10	Bronze	789	756	WebSite
+27	10	Gold	1118	721	Consulting	WebSite	Consulting
+28	10	Gold	1217	862	Consulting	Consulting	Consulting
+29	10	Brass	591	862	Consulting
+30	10	Brass	572	738	WebSite	WebSite
+31	10	NoStat	492	895	Consulting	Consulting	WebSite
+32	10	Bronze	827	954	WebSite	Consulting	Consulting
+33	10	Bronze	710	908	WebSite	WebSite
+34	10	NoStat	302	956	Consulting	WebSite	WebSite	WebSite
+35	10	Bronze	785	973	Consulting	Consulting
+36	10	Brass	603	959	WebSite	Consulting
+37	10	Gold	1056	982	Consulting	Consulting
+38	10	Bronze	706	981	Consulting	Consulting
+39	10	Silver	991	995	WebSite
+40	10	Gold	1094	907	Consulting
+41	10	Bronze	802	988	WebSite	WebSite
+42	10	Bronze	707	1046	Consulting	WebSite	WebSite
+43	10	Gold	1322	1008	WebSite	Consulting	WebSite
+44	10	Bronze	752	1490	Consulting	WebSite	WebSite
+45	10	Brass	616	1487	WebSite	WebSite
+46	10	Bronze	852	1337	WebSite	WebSite
+47	10	Gold	1082	1142	Consulting
+48	10	Silver	966	1424	WebSite	Consulting	Consulting
+49	10	Silver	972	1078	WebSite
+50	10	Bronze	847	1127	Consulting	WebSite
+51	10	Bronze	776	1450	Consulting	Consulting
+
